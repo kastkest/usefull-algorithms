@@ -1,4 +1,4 @@
-package ru.kasterov.SelectionSort;
+package ru.kasterov.selectionSort;
 
 import java.util.Arrays;
 
